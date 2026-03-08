@@ -5,6 +5,8 @@ The point of this project is beginers very quickly to understand base architectu
 
 Press "T" during training to see current level of text generation.
 
+with "shakespeare_char.txt" for training:
+
 Epoch 1850/100000  loss=1.7293  ep=0.44s  elapsed=905.08s  ETA=43475.01s  
 Epoch 1860/100000  loss=1.6721  ep=0.45s  elapsed=909.62s  ETA=43963.38s  
 Epoch 1870/100000  loss=1.6345  ep=0.47s  elapsed=914.13s  ETA=46519.86s  
