@@ -1,3 +1,5 @@
+TRANSFORMER PRIME :)
+
 Very very simple and compact fully functional transformer for education purpose only.  
 Decoder only architecture.  
 Writen in c++ without any libraries.  
