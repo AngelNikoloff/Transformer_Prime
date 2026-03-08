@@ -6,6 +6,6 @@ Writen in c++ without any libraries.
 
 The point of this project is beginers very quickly to understand base architecture of transformers.
 
-There are used only "for loops" for simplicity which is very inefective. 
+
 
 
