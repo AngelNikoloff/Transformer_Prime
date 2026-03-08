@@ -1,0 +1,6 @@
+﻿  simple_transformer.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1156 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TRANSFORMER.vcxproj -> E:\ANN\TRANSFORMER\ANN_LIB_2_CLEAN\ANNLIB - GITHUB 220226 - 2\x64\Release\TRANSFORMER.exe
