@@ -1,9 +1,14 @@
 TRANSFORMER PRIME :)
 
-Very very simple and compact fully functional transformer for education purpose only.  (dropout implementation missing - coming soon)  
+C++ Transformer from Scratch.  
+Writen without any libraries.  
+CPU only optimized, but not so much so to keep simplicity.
+
+Very very simple and compact fully functional transformer for education purpose only.  
+(dropout implementation missing - coming soon)  
 Decoder only architecture.  
-Writen in c++ without any libraries.  
-The point of this project is beginers very quickly to understand base architecture of transformers.  
+
+The point of this project is beginers very quickly to understand base architecture of transformers and and the things below the surface.  
 
 Press "T" during training to see current level of text generation.
 
