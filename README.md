@@ -1,6 +1,6 @@
 TRANSFORMER PRIME :)
 
-Very very simple and compact fully functional transformer for education purpose only.  (dropout implementation missing - coming soon)
+Very very simple and compact fully functional transformer for education purpose only.  (dropout implementation missing - coming soon)  
 Decoder only architecture.  
 Writen in c++ without any libraries.  
 The point of this project is beginers very quickly to understand base architecture of transformers.  
