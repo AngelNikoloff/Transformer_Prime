@@ -9,7 +9,7 @@ Very very simple and compact fully functional transformer for education purpose 
 (dropout implementation missing - coming soon)  
 Decoder only architecture.  
 
-The point of this project is beginers very quickly to understand base architecture of transformers and and the things below the surface.  
+The point of this project is beginers very quickly to understand base architecture of transformers and the things below the surface.  
 
 Press "T" during training to see current level of text generation.
 
