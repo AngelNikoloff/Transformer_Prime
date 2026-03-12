@@ -1,7 +1,7 @@
 TRANSFORMER PRIME :)
 
 Decoder only architecture. 
-Inspired by Andrej Karpathy's NanoGPT.
+Inspired by Andrej Karpathy's NanoGPT.  
 
 C++ Transformer from Scratch.  
 Writen without any libraries.  
