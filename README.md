@@ -6,7 +6,6 @@ Writen without any libraries.
 CPU only optimized, but not so much so to keep simplicity.
 
 Very very simple and compact fully functional transformer for education purpose only.  
-(dropout implementation missing - coming soon)  
 Decoder only architecture.  
 
 The point of this project is beginers very quickly to understand base architecture of transformers and the things below the surface.  
