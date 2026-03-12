@@ -8,6 +8,7 @@ CPU only optimized, but not so much so to keep simplicity.
 
 Very very simple and compact fully functional transformer for education purpose only.  
 The point of this project is beginers very quickly to understand base architecture of transformers and the things below the surface.  
+Inside there are no comments - that take space. Just copy/past source in some AI and say it to comment it for you :)
 
 Press "T" during training to see current level of text generation.
 
