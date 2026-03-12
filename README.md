@@ -1,8 +1,8 @@
 TRANSFORMER PRIME :)
 
-C++ Transformer from Scratch.  
 Decoder only architecture. 
 
+C++ Transformer from Scratch.  
 Writen without any libraries.  
 CPU only optimized, but not so much so to keep simplicity.
 
